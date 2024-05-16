@@ -7,7 +7,7 @@ This project generates QR codes for a list of URLs provided in the urls variable
 ### 1. Clone the repository:
 
 ```bash
-    git clone https://github.com/TesKill-Technologies/qrcode-to-image-js.git
+    git clone https://github.com/TesKill-Technologies/generateqr-and-convert-to-image
 ```
 
 ### 2. Install the dependencies:
